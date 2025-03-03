@@ -1,4 +1,4 @@
-const MONGO_URI = "mongodb+srv://llumo-dev-db:cJOqqcw09RBJzl6g@llumo-local.fvvbx.mongodb.net/llumo-ai";
+const MONGO_URI = "add your mongo string here";
 const mongoose = require("mongoose");
 
 const connectToMongoDb = () => {
